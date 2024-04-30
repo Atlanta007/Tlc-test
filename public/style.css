@@ -151,6 +151,22 @@ footer p{
         position: relative;
         top: 20px;
     }
+    .content{
+        position: relative;
+        bottom: 40px;
+    }
+    .passkey{
+        position: relative;
+        bottom: 10px;
+        font-size: 12px;
+    }
+    button{
+        position: relative;
+        bottom: 40px;
+        width: 60px;
+        height: 35px;
+        font-size: 12px;
+    }
     .container{
         width: 93%;
         height: 60vh;
@@ -197,14 +213,18 @@ footer p{
     }
     .content{
         position: relative;
-        bottom: 50px;
-        font-size: 10px;
+        bottom: 40px;
+    }
+    .passkey{
+        position: relative;
+        bottom: 10px;
+        font-size: 12px;
     }
     button{
         position: relative;
         bottom: 40px;
-        width: 70px;
-        height: 40px;
+        width: 60px;
+        height: 35px;
         font-size: 12px;
     }
     .proceed{
@@ -244,6 +264,22 @@ footer p{
         border: 1px solid transparent;
         border-radius: 5px;
         padding-bottom: 40px;
+    }
+    .content{
+        position: relative;
+        bottom: 40px;
+    }
+    .passkey{
+        position: relative;
+        bottom: 10px;
+        font-size: 12px;
+    }
+    button{
+        position: relative;
+        bottom: 40px;
+        width: 60px;
+        height: 35px;
+        font-size: 12px;
     }
     .proceed{
         position: relative;
